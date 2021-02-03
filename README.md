@@ -20,9 +20,9 @@ Appropriate visaulizations were done in Tableau for analysis, and a web page fro
 ![Front End](https://github.com/KshitijaSAPatel/311-Complaint-Resolution-Time-Prediction/blob/main/Images/FrontEnd.png)
 
 ## Technologies used:
-Apache Airflow for ETL Pipeline generation 
-Apache Spark (PySpark, Spark SQL) and Pandas for processing and transforming data
-pyspark.ml library used for the resolution time prediction 
-Tableau used for Data Visualization 
-HTML, CSS, Flask used for creating the front end 
+- Apache Airflow for ETL Pipeline generation 
+- Apache Spark (PySpark, Spark SQL) and Pandas for processing and transforming data
+- pyspark.ml library used for the resolution time prediction 
+- Tableau used for Data Visualization 
+- HTML, CSS, Flask used for creating the front end 
 
